@@ -1,8 +1,5 @@
 # Wei Dai
 
-📞 Phone: +86 185 1023 9829
-📧 Email: loveispdvd@gmail.com
-
 ---
 
 ## Education

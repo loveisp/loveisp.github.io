@@ -81,6 +81,7 @@
 - 🥈 **2nd Place**, ISCSLP Multi-modal Dysarthria Severity Assessment Challenge  
   *(14th International Symposium on Chinese Spoken Language Processing)*
 - 🥈 **2nd Place**, SMP Large Language Model-based Graph Analysis Challenge
+  *(12th National Conference on Social Media Processing)*
 - 🥉 **3rd Place**, CCAC Chinese Emotion Classification with User Profile Information  
   *(4th Chinese Conference on Affective Computing)*
 - 🏅 **Third Prize**, The Global Digital Intelligence Education Innovation Competition – Life Sciences Track:  
